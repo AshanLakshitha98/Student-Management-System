@@ -1,0 +1,86 @@
+D:\Other\Edu\DiTEC\C#\VS\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+D:\Other\Edu\DiTEC\C#\VS\Student Management System\Student Management System\obj\Debug\Student Management System.csprojResolveAssemblyReference.cache
+D:\Other\Edu\DiTEC\C#\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+D:\Other\Edu\DiTEC\C#\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmLogin.resources
+D:\Other\Edu\DiTEC\C#\VS\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.Cache
+D:\Other\Edu\DiTEC\C#\VS\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+D:\Other\Edu\DiTEC\C#\VS\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+D:\Other\Edu\DiTEC\C#\VS\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+D:\Other\Edu\DiTEC\C#\VS\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+D:\Other\Edu\DiTEC\C#\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAdmin.resources
+D:\Other\Edu\DiTEC\C#\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmTeacher.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student Management System.csprojResolveAssemblyReference.cache
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmLogin.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.Cache
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmStudent.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmStudentDetails.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmChangePassword.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmExamMarks.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAddNewStudent.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmEditStudentDetails.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAddExamMarks.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAddAnnouncement.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmDashboard.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAddTeacher.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmEditTeacherProfile.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmTeacherDetails.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmChangePasswordAdmin.resources
+D:\Other\Edu\DiTEC\C#\shared\VS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmChangePasswordTeacher.resources
+D:\DBMS\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+D:\DBMS\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+D:\DBMS\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student Management System.csprojResolveAssemblyReference.cache
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAddAnnouncement.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAddExamMarks.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAddNewStudent.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAddTeacher.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmChangePassword.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmChangePasswordAdmin.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmChangePasswordTeacher.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmEditStudentDetails.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmEditTeacherProfile.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmExamMarks.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmStudent.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmLogin.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmDashboard.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmStudentDetails.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmTeacherDetails.resources
+D:\DBMS\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.Cache
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student Management System.csprojResolveAssemblyReference.cache
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAddAnnouncement.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAddExamMarks.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAddNewStudent.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmAddTeacher.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmChangePassword.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmChangePasswordAdmin.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmChangePasswordTeacher.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmEditStudentDetails.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmEditTeacherProfile.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmExamMarks.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmStudent.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmLogin.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmDashboard.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmStudentDetails.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student_Management_System.Screens.frmTeacherDetails.resources
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.Cache
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+D:\Other\Edu\DiTEC\C#\Final\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+D:\Final\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+D:\Final\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+D:\Final\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+D:\Project\Final\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+D:\Project\Final\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+D:\Project\Final\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
